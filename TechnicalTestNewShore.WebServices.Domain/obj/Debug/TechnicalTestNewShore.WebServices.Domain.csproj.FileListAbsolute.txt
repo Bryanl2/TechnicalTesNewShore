@@ -1,0 +1,5 @@
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Domain\bin\Debug\TechnicalTestNewShore.WebServices.Domain.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Domain\bin\Debug\TechnicalTestNewShore.WebServices.Domain.pdb
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Domain\obj\Debug\TechnicalTestNewShore.WebServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Domain\obj\Debug\TechnicalTestNewShore.WebServices.Domain.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Domain\obj\Debug\TechnicalTestNewShore.WebServices.Domain.pdb

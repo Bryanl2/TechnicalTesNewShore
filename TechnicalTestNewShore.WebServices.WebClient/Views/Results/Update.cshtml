@@ -1,0 +1,29 @@
+﻿@model Results
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Actualizar Posible Cliente</h2>
+<hr />
+
+<form method="post" action="@Url.Action("Update","Results")">
+    <section class="form-group">
+        <label>Id</label>
+        @Html.TextBoxFor(x => x.Id, new { @class = "form-control", @readonly = "readonly" })
+    </section>
+
+    <section class="form-group">
+        <label>Possible Client</label>
+        @Html.TextBoxFor(x => x.PossibleClient, new { @class = "form-control" })
+    </section>
+
+    <section class="form-group">
+        <label>State</label>
+        @Html.TextBoxFor(x => x.State, new { @class = "form-control" })
+    </section>
+
+    <section class="form-group">
+        <input type="submit" class="btn btn-success" value="Enviar" />
+        <a href="@Url.Action("Index","Results")" class="btn btn-primary">Regresar</a>
+    </section>
+</form>

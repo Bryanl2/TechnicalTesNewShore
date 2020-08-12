@@ -1,0 +1,15 @@
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\TechnicalTestNewShore.WebServices.WCF.dll.config
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\TechnicalTestNewShore.WebServices.WCF.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\TechnicalTestNewShore.WebServices.WCF.pdb
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\EntityFramework.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\TechnicalTestNewShore.WebServices.Data.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\TechnicalTestNewShore.WebServices.Data.pdb
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\TechnicalTestNewShore.WebServices.Data.dll.config
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\EntityFramework.xml
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\obj\Debug\TechnicalTestNewShore.WebServices.WCF.csprojAssemblyReference.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\obj\Debug\TechnicalTestNewShore.WebServices.WCF.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\obj\Debug\TechnicalTestNewShore.WebServices.WCF.csproj.CopyComplete
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\obj\Debug\TechnicalTestNewShore.WebServices.WCF.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.WCF\obj\Debug\TechnicalTestNewShore.WebServices.WCF.pdb

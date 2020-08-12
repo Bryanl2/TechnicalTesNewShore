@@ -1,0 +1,43 @@
+﻿
+@model List<Results>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Posibles clientes = Estado (Existe  / No Existe)</h3>
+<a href="@Url.Action("New","Results")" class="btn btn-primary right">New registry</a>
+<hr />
+
+<table class="table table-bordered table-hover">
+    <thead class="table table-striped">
+        <tr>
+            <td>Id</td>
+            <td>Possible Client</td>
+            <td>State</td>
+            <td>Edition</td>
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var results in Model)
+        {
+            <tr>
+                <td>@results.Id</td>
+                <td>@results.PossibleClient</td>
+                <td>@results.State</td>
+
+
+                <td>
+                    <a href="@Url.Action("Update","Results",new { id=results.Id})" class="btn btn-success right">Update</a>
+
+                    <a href="@Url.Action("Delete","Results",new { id=results.Id})" class="btn btn-danger right">Delete</a>
+
+                </td>
+
+            </tr>
+
+
+
+        }
+    </tbody>
+</table>

@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "UploadFiles";
+}
+
+<h2>Operation's Interface</h2>
+
+
+<section class="row">
+
+    <section class="col-sm-4">
+
+        <h3 class="text-danger">@ViewBag.ErrorUpload</h3>
+        <h3 class="text-success">@ViewBag.CorrectUpload</h3>
+
+        <form method="post" enctype="multipart/form-data">
+
+            <input class="w-30" type="file" name="fileOne" />
+            <br />
+            <input type="file" name="fileTwo" />
+            <br />
+            <button class="btn btn-primary btn-block" type="submit">Subir Archivos</button>
+        </form>
+
+    </section>
+    <section>
+
+        <h3 class="text-danger">@ViewBag.ErrorRead</h3>
+        <h3 class="text-success">@ViewBag.ConfirmationRead</h3>
+        
+        <section class="col-sm-4">
+
+            @using (Html.BeginForm("ReadFile", "ArchivesInterface", FormMethod.Post))
+            {
+                <section>
+                    <button class="btn btn-primary btn-block" type="submit">Leer Archivos</button>
+                </section>
+
+            }
+
+        </section>
+    </section>
+
+    <section>
+        <section class="col-sm-4">
+
+            @using (Html.BeginForm("resultFile", "ArchivesInterface", FormMethod.Get))
+            {
+                <section>
+                    <button class="btn btn-primary btn-block" type="submit">Resultados</button>
+                </section>
+
+            }
+
+        </section>
+    </section>
+
+
+
+</section>
+

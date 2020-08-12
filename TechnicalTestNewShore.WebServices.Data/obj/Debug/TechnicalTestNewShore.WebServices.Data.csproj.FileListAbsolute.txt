@@ -1,0 +1,12 @@
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\TechnicalTestNewShore.WebServices.Data.dll.config
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\TechnicalTestNewShore.WebServices.Data.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\TechnicalTestNewShore.WebServices.Data.pdb
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\obj\Debug\TechnicalTestNewShore.WebServices.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\obj\Debug\TechnicalTestNewShore.WebServices.Data.csproj.CopyComplete
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\obj\Debug\TechnicalTestNewShore.WebServices.Data.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\obj\Debug\TechnicalTestNewShore.WebServices.Data.pdb
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.Data\obj\Debug\TechnicalTestNewShore.WebServices.Data.csprojAssemblyReference.cache

@@ -1,0 +1,27 @@
+﻿@model Results
+@{
+    ViewBag.Title = "New";
+}
+
+<h2>New</h2>
+<h2>Nuevo Posible Cliente</h2>
+<hr />
+
+<form method="post" action="@Url.Action("New","Results")">
+
+
+    <section class="form-group">
+        <label>Possible Client</label>
+        @Html.TextBoxFor(x => x.PossibleClient, new { @class = "form-control" })
+    </section>
+
+    <section class="form-group">
+        <label>State</label>
+        @Html.TextBoxFor(x => x.State, new { @class = "form-control" })
+    </section>
+
+    <section class="form-group">
+        <input type="submit" class="btn btn-success" value="Send" />
+        <a href="@Url.Action("Index","Results")" class="btn btn-primary">Back</a>
+    </section>
+</form>

@@ -1,0 +1,9 @@
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\bin\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.deps.json
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\bin\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\bin\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.pdb
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\obj\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.csprojAssemblyReference.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\obj\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.AssemblyInfoInputs.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\obj\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.AssemblyInfo.cs
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\obj\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\obj\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.dll
+C:\Users\Bryan Loaiza\source\repos\TechnicalTestNewShore\TechnicalTestNewShore.WebServices.DomainOne\obj\Debug\netstandard2.0\TechnicalTestNewShore.WebServices.DomainOne.pdb

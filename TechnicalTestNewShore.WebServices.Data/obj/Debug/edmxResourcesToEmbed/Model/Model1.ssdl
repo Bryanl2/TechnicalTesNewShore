@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TablasNewShoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errores durante la generación:
+advertencia 6002: La tabla o vista 'TablasNewShore.dbo.CONTENT' no tiene definida ninguna clave principal. Se ha inferido la clave y la definición se creado como una vista o tabla de solo lectura.-->
+  <EntityType Name="CONTENT">
+    <Key>
+      <PropertyRef Name="Letras" />
+    </Key>
+    <Property Name="Letras" Type="varchar" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="REGISTERED">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PosibleCliente" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RESULT">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PossibleClient" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="State" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TablasNewShoreModelStoreContainer">
+    <EntitySet Name="REGISTERED" EntityType="Self.REGISTERED" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RESULT" EntityType="Self.RESULT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CONTENT" EntityType="Self.CONTENT" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [CONTENT].[Letras] AS [Letras]
+    FROM [dbo].[CONTENT] AS [CONTENT]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
